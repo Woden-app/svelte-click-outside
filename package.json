@@ -1,9 +1,9 @@
 {
   "name": "@woden/svelte-click-outside",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "An action that provides click outside detection for Svelte",
-  "main": "src/index.js",
-  "module": "lib/index.js",
+  "main": "lib/index.js",
+  "module": "src/index.js",
   "repository": "https://github.com/Woden-app/svelte-click-outside.git",
   "author": "Woden",
   "license": "MIT",
